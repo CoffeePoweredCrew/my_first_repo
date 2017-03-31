@@ -2,3 +2,4 @@ This is report file.
 
 Section 1
 Introduction
+Adding a line from hot_fix branch.
